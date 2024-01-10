@@ -1,0 +1,19 @@
+body {
+  text-align: center
+}
+
+#phone {
+  background-color: black;
+  width: 300px;
+  height: 500px;
+  margin: auto;
+}
+
+#phone-screen {
+  background-color: white;
+  margin: auto ;
+  border: 10px solid black;
+  width: 270px;
+  height:450px;
+
+}
